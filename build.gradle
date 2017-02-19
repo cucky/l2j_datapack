@@ -23,14 +23,14 @@ configurations.all {
 
 dependencies {
 	compile 'org.slf4j:slf4j-api:1.7.12'
-	compile files('../L2J_Server/dist/libs/mmocore.jar')
-	compile project(':L2J_Server')
+	compile files('../l2j_server_custom/dist/libs/mmocore.jar')
+	compile project(':l2j_server_custom')
 	testCompile 'org.mockito:mockito-all:2.0.2-beta'
 	testCompile 'org.testng:testng:6.9.6'
 }
 
 task zip(type: Zip) {
-	def fileName = 'L2J_DataPack_' + new Date().format("yyyy-MM-dd")
+	def fileName = 'L2J_DataPack_custom_' + new Date().format("yyyy-MM-dd")
 	baseName = fileName
 	from('dist')
 	println 'Build in build/distributions/' + fileName + '.zip'
