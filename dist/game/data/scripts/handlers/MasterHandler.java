@@ -277,6 +277,7 @@ import handlers.voicedcommandhandlers.ChatAdmin;
 import handlers.voicedcommandhandlers.Debug;
 import handlers.voicedcommandhandlers.Lang;
 import handlers.voicedcommandhandlers.StatsVCmd;
+import handlers.voicedcommandhandlers.UserOptions;
 import handlers.voicedcommandhandlers.Wedding;
 
 /**
@@ -524,6 +525,7 @@ public class MasterHandler
 		{
 			// Voiced Command Handlers
 			StatsVCmd.class,
+                        UserOptions.class,
 			// TODO: Add configuration options for this voiced commands:
 			// CastleVCmd.class,
 			// SetVCmd.class,
