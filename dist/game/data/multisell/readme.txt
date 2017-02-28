@@ -43,7 +43,7 @@ of this directory a little bit.
 
 7834.xml -> Quest 343: Under The Shadow Of The Ivory Tower, exchange Orbs
 7897.xml -> Quest 351: BlackSwan, exchange Bills
-
+1001.xml - 1031.xml -> custom GM shop
 31522.xml -> Quest 632: Necromancers Request
 
 301660373.xml -> Quest 373: Supplier of Reagents - Wesley

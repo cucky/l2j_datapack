@@ -276,6 +276,7 @@ import handlers.voicedcommandhandlers.ChangePassword;
 import handlers.voicedcommandhandlers.ChatAdmin;
 import handlers.voicedcommandhandlers.Debug;
 import handlers.voicedcommandhandlers.Lang;
+import handlers.voicedcommandhandlers.Online;
 import handlers.voicedcommandhandlers.StatsVCmd;
 import handlers.voicedcommandhandlers.UserOptions;
 import handlers.voicedcommandhandlers.Wedding;
@@ -535,6 +536,7 @@ public class MasterHandler
 			(Config.L2JMOD_MULTILANG_ENABLE && Config.L2JMOD_MULTILANG_VOICED_ALLOW ? Lang.class : null),
 			(Config.L2JMOD_DEBUG_VOICE_COMMAND ? Debug.class : null),
 			(Config.L2JMOD_ALLOW_CHANGE_PASSWORD ? ChangePassword.class : null),
+                        Online.class,
 		},
 		{
 			// Target Handlers
