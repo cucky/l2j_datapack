@@ -43,7 +43,11 @@ of this directory a little bit.
 
 7834.xml -> Quest 343: Under The Shadow Of The Ivory Tower, exchange Orbs
 7897.xml -> Quest 351: BlackSwan, exchange Bills
+
 1001.xml - 1031.xml -> custom GM shop
+
+11001.xml -> custom reward shop
+
 31522.xml -> Quest 632: Necromancers Request
 
 301660373.xml -> Quest 373: Supplier of Reagents - Wesley
@@ -137,6 +141,8 @@ of this directory a little bit.
 90001002.xml -> Support Unit Captain - bracelets
 90001003.xml -> Support Unit Captain - t-shirts
 90001004.xml -> Support Unit Captain - enchanted t-shirts
+
+90318600.xml - 90318601.xml -> Squash Event
 
 32326001.xml -> Yang - Elemental potions
 32326002.xml -> Yang - Elemental stones

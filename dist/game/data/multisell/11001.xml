@@ -5,4 +5,34 @@
     <ingredient id="4357" count="100"/>
     <production id="20034" count="1"/>
   </item>
+  
+  <!-- Vitality Replenishing Potion -->
+  <item>
+    <ingredient id="4357" count="100"/>
+    <production id="20392" count="1"/>
+  </item>
+  
+  <!-- Rune of Experience Points 30% 5-hour limited period -->
+  <item>
+    <ingredient id="4357" count="150"/>
+    <production id="20335" count="1"/>
+  </item>
+  
+  <!-- Rune of Experience Points 30% 3-hour limited period -->
+  <item>
+    <ingredient id="4357" count="100"/>
+    <production id="20572" count="1"/>
+  </item>
+  <!-- Rune of SP 30% 5-hour limited period (limited - 300 min)  -->
+  <item>
+    <ingredient id="4357" count="150"/>
+    <production id="20341" count="1"/>
+  </item>
+  
+  <!-- Rune of SP 30% 1-Hour Pack -->
+  <item>
+    <ingredient id="4357" count="100"/>
+    <production id="21086" count="1"/>
+  </item>
+  
 </list>

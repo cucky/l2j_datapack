@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<!-- Squash Seed -->
+        <item id="1">
+                <ingredient id="6391" count="20" />
+                <production id="6389" count="1" />
+        </item>
+        <!--Large Squash Seed -->
+        <item id="2">
+                <ingredient id="6391" count="30" />
+                <production id="6390" count="1" />
+        </item>
+</list>
